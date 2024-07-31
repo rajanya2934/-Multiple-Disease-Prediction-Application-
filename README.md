@@ -1,1 +1,1 @@
-# -Multiple-Disease-Prediction-Application-
+# Multiple_Disease_Prediction
